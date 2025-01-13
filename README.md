@@ -1,6 +1,12 @@
-<h1 align="center">Hi 👋, I'm Ashraf Hatia</h1>
-<h3 align="center">A Full Stack Software developer from India</h3>
+<div align="center">
+  <img height="150" src="https://pbs.twimg.com/profile_banners/909911178/1622915667/1500x500"  />
+</div>
+<h1 align="left">Hi 👋, I'm Ashraf Hatia</h1>
+<h3 align="left">🚀 A Full Stack Software developer from India 🇮🇳</h3>
+<h3 align="left">Currently, I am based in Dubai, UAE 🇦🇪</h3>
 
+- 🌐 Contributed Over 15+ e-commerce stores.
+  
 - 🔭 I’m currently working on **Laravel SaaS**
 
 - 🌱 I’m currently learning **Golang, Laravel, FilamentPHP**
@@ -9,7 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ashrafhatia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashrafhatia/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ashrafhatia/" target="blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /><a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -18,5 +25,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashrafhatia&show_icons=true&locale=en&layout=compact" alt="ashrafhatia" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashrafhatia&show_icons=true&locale=en" alt="ashrafhatia" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashrafhatia" alt="ashrafhatia" /></p>
