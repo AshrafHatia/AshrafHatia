@@ -2,14 +2,14 @@
     <img height="100" src="https://pbs.twimg.com/profile_banners/909911178/1622915667/1500x500"  />
 </div>
 <h1 align="left">Hi 👋, I'm Ashraf Hatia</h1>
-<h3 align="left">🚀 A Full Stack Software Developer from India 🇮🇳</h3>
-<h3 align="left">Currently, I am based in Dubai, UAE 🇦🇪</h3>
+<h3 align="left">🚀 A Full Stack Software Developer/h3>
+<h3 align="left">Currently, I am In Toronto, Ontario, Canada 🇨🇦</h3>
 
 <ul>
   <li>🌐 Contributed to Over 15+ e-commerce stores.</li>
-  <li>👨🏽‍💻 With over <strong>5 years</strong> of experience in software development</li>
-  <li>🔭 I’m currently working on <strong>Laravel SaaS</strong></li>
-  <li>🌱 I’m currently learning <strong>Golang, Laravel, FilamentPHP</strong></li>
+  <li>👨🏽‍💻 With over <strong>6+ years</strong> of experience in software development</li>
+  <li>🔭 I’m currently working on <strong>Golang Projects</strong></li>
+  <li>🌱 I’m currently learning <strong>Golang</strong></li>
   <li>💬 Ask me about <strong>E-Commerce Solutions, Magento, PHP, Laravel</strong></li>
 </ul>
 
